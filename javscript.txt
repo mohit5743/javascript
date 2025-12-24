@@ -1,0 +1,4 @@
+1:  javascript is high level ,object oriented ,multi paradigm programming language.
+
+2- javascript allow us to add dynamic effects on the  webapage in the browser.
+
